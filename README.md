@@ -7,9 +7,9 @@
 - ####  💪 I’m currently working on  Cyber Security and my Programming skills.
 - ####  📝 I’m open to collaborate on Cyber Security and Software Engineering projects.
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
-* [Twitter](https://twitter.com/IamLordwill)
-* [Email](mailto:messagelordwill@gmail.com)
+* [LinkedIn]((https://www.linkedin.com/in/derso-takele-2a5193252/)/)
+* [Twitter](https://twitter.com/DersoTakele11)
+* [Email](dersotakele@gmail.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
