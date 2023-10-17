@@ -3,12 +3,23 @@
 # Hi I am Derso Takele.👋
 
 ### I am a Software Engineering student at ALX. 
-- 👋 Hi, I’m @dersotakele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+- #### 🔭 I’m currently working on  Cyber Security and my Programming skills.
+- #### 👯 I’m open to collaborate on Cyber Security and Software Engineering projects.
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
+* [Twitter](https://twitter.com/IamLordwill)
+* [Email](mailto:messagelordwill@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+## QUESTION AND ANSWER WEBSITE 
+* [Stackoverflow](https://Stackoverflow.com/)
+* [GitHub](https://github.com/)
+* [Quora](https://quora.com/)
+* [Reddit](https://reddit.com/)
+* [Stack exchange](https://Stackexchange.com/)
+* [Code project](https://codeproject.com/)
+* [Programmers heaven](https://programmersheaven.com/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
 <!---
 dersotakele/dersotakele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
