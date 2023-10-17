@@ -4,8 +4,8 @@
 
 ### I am a Software Engineering student at ALX. 
 
-- #### 🔭 I’m currently working on  Cyber Security and my Programming skills.
-- #### 👯 I’m open to collaborate on Cyber Security and Software Engineering projects.
+- ####  💪 I’m currently working on  Cyber Security and my Programming skills.
+- ####  📝 I’m open to collaborate on Cyber Security and Software Engineering projects.
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
 * [Twitter](https://twitter.com/IamLordwill)
