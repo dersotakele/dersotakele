@@ -8,7 +8,8 @@
 * [LinkedIn](https://www.linkedin.com/in/derso-takele-2a5193252/)
 * [Twitter](https://twitter.com/DersoTakele11)
 * [Email](dersotakele@gmail.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dersotakele&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
 
 
 dersotakele/dersotakele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
