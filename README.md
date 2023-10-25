@@ -5,7 +5,7 @@
 # Hi I am Derso Takele.👋
 
 ### I am a Software Engineering student at ALX. 
-- ####  💪 I’m currently working on  Cyber Security and my Programming skills.
+- ####  💪 I’m currently working on  Cybersecurity Analyst and learn Programming skills @ALX.
 - ####  📝 I’m open to collaborate on Cyber Security and Software Engineering projects.
   
 # Contact 
